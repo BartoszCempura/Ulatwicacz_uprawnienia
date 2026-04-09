@@ -1,0 +1,4 @@
+python -m venv .env
+pip install customtkinter
+pip install pyinstaller - tworzenie pliku wykonywalnego
+pyinstaller --onefile --windowed --name Ulatwicacz  --icon=ulatwiacz.ico  main.py
