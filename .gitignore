@@ -1,0 +1,9 @@
+# Foldery generowane przez PyInstaller
+build/
+dist/
+
+# Pliki konfiguracyjne PyInstaller (spec)
+*.spec
+
+__pycache__/
+*.py[cod]
