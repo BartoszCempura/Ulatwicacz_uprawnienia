@@ -27,4 +27,6 @@ Used when changing permissions to corporate user resources, when the list of cur
 It saved the time and energy of the person changing permissions.
 
 </br>
-<img width="602" height="834" align="center" alt="Zrzut ekranu 2026-04-09 121752" src="https://github.com/user-attachments/assets/1de2a47b-f833-44ca-9c4d-2af5930ffdaa" />
+<div align="center">
+  <img width="602" height="834" alt="Zrzut ekranu 2026-04-09 121752" src="https://github.com/user-attachments/assets/1de2a47b-f833-44ca-9c4d-2af5930ffdaa" />
+</div>
