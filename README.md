@@ -7,7 +7,9 @@ Prosta aplikacja umożliwiająca:
 Wykożystywana przy zmianie uprawnień do zasobów użytkownika korporacyjnego , gdy lista obecnych uprawnień oraz lista uprawnień do zmiany była prawie identyczna, rózniąca sie pojedyńczymi sekcjami. 
 Pozwalała oszczędzić czas i energię osoby zmieniającej uprawnienia. 
 
-
+</br>
+<p align="center">--------------------------------------------- EN ---------------------------------------------</p>
+</br>
 
 A simple application that allows:
 - pasting text
@@ -19,4 +21,5 @@ Used when changing permissions to corporate user resources, when the list of cur
 
 It saved the time and energy of the person changing permissions.
 
+</br>
 <img width="602" height="834" alt="Zrzut ekranu 2026-04-09 121752" src="https://github.com/user-attachments/assets/1de2a47b-f833-44ca-9c4d-2af5930ffdaa" />
