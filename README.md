@@ -1,3 +1,8 @@
+
+</br>
+<p align="center">--------------------------------------------- PL ---------------------------------------------</p>
+</br>
+
 Prosta aplikacja umożliwiająca:
 - wklejenie textu
 - posortowanie linii alfabetycznie
